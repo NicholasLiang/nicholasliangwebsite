@@ -27,6 +27,13 @@
 	filter: brightness(70%)
 }
 
+[aria-current="page"] {
+	pointer-events: none;
+	cursor: default;
+	text-decoration: none;
+	color: black;
+}
+
 
 /*
 	Astral by HTML5 UP
